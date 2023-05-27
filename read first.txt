@@ -1,0 +1,5 @@
+at 12th line of code put the path of the image which you want as background accordingly
+
+
+
+and at 18th line put the path of the folder in which you have songs downloded
